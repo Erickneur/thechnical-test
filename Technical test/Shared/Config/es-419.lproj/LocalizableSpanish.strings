@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Technical test
+
+  Created by Erick Dávila on 6/27/22.
+  
+*/
+
+"search" = "Buscar";
+"post" = "Post";
+"searchPost" = "Buscar post";

@@ -1,0 +1,12 @@
+/* 
+  LocalizableEnglish.strings
+  Technical test
+
+  Created by Erick Dávila on 6/27/22.
+  
+*/
+
+"search" = "Search";
+"post" = "Post";
+"searchPost" = "Search post";
+
